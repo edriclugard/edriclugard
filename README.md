@@ -13,16 +13,6 @@ I'm an **aspiring Data Scientist, AI/ML enthusiast, and Technical Writer** passi
 
 ---
 
-## 💡 Interests & Collaborations
-- 🤖 **AI/ML** – Exploring models and real-world applications.
-- 📊 **Data Science** – Transforming raw data into insights.
-- 📄 **Technical Writing** – Creating AI/ML tutorials & documentation.
-- 🔗 **Open-Source** – Contributing to AI/ML projects.
-
-💡 Open to collaborations in **AI/ML projects, tech writing, and open-source contributions**.
-
----
-
 ## 📫 Connect with Me
 📧 Email: **[edriclugard@yahoo.co.uk](mailto:edriclugard@yahoo.co.uk)**  
 💼 LinkedIn: **[Edric Lugard](https://www.linkedin.com/in/edric-lugard-704557b6/)**  
