@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Edric Lugard!
 
 ## 🚀 About Me
-I'm an Data Scientist, AI/ML enthusiast, and Technical Writer** passionate about simplifying complex concepts 
+I'm an Data Scientist, AI/ML enthusiast, and Technical Writer passionate about simplifying complex concepts 
 
 ---
 
