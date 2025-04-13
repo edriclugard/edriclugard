@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Edric Lugard!
+# 👋 Hi
+
+I'm an aspiring technical content writer specializing in AI/ML.
+
+Currently building foundational skills in data science and technical writing.
+
+I believe in learning by doing—and sharing that journey.
+
+If you're into writing, technical communication, or AI/ML, let’s connect and grow together.
 
 
-I’m an aspiring technical content writer focused on the AI/ML space.
+## 📫 Connect with Me
 
-I'm currently building foundational skills in data science and technical writing, with the goal of simplifying complex ideas into clear, useful content.
-
-I believe in learning by doing and sharing that journey publicly.
-
-If you're passionate about Writing,Technical communication or AI/ML — Let's connect and learn together.
-
-
-## 📫 Connect with Me ##
 📧 Email: **[edriclugard@yahoo.co.uk](mailto:edriclugard@yahoo.co.uk)**  
 
 💼 LinkedIn: **[Edric Lugard](https://www.linkedin.com/in/edric-lugard-704557b6/)**  
@@ -21,7 +21,8 @@ If you're passionate about Writing,Technical communication or AI/ML — Let's co
 
 
 
-## 🔥 Fun Fact ##
+## 🔥 Fun Fact
+
 Learning **German** 🇩🇪 while diving into **AI & ML** 🤖—because since when has it become not cool to try? 😆
 
 ### ⚡ "Strive for progress, not perfection!" 🚀
