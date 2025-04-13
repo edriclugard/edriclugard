@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Edric Lugard!
 
----
 
 I’m an aspiring technical content writer focused on the AI/ML space.
 
@@ -10,7 +9,6 @@ I believe in learning by doing and sharing that journey publicly.
 
 If you're passionate about Writing,Technical communication or AI/ML — Let's connect and learn together.
 
----
 
 ## 📫 Connect with Me ##
 📧 Email: **[edriclugard@yahoo.co.uk](mailto:edriclugard@yahoo.co.uk)**  
@@ -21,11 +19,10 @@ If you're passionate about Writing,Technical communication or AI/ML — Let's co
 
 📜 Portfolio: *Coming soon...*
 
----
+
 
 ## 🔥 Fun Fact ##
 Learning **German** 🇩🇪 while diving into **AI & ML** 🤖—because since when has it become not cool to try? 😆
 
----
 ### ⚡ "Strive for progress, not perfection!" 🚀
 
