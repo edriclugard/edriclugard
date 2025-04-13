@@ -1,8 +1,8 @@
-# 👋 Hi
+## 👋 Hi
 
 I'm an aspiring technical content writer specializing in AI/ML.
 
-Currently building foundational skills in data science and technical writing.
+Currently building foundational skills in AI/ML and technical writing.
 
 I believe in learning by doing—and sharing that journey.
 
@@ -23,7 +23,7 @@ If you're into writing, technical communication, or AI/ML, let’s connect and g
 
 ## 🔥 Fun Fact
 
-Learning **German** 🇩🇪 while diving into **AI & ML** 🤖—because since when has it become not cool to try? 😆
+Learning **German** 🇩🇪 while diving into **AI/ML** 🤖—because since when has it become not cool to try? 😆
 
 ### ⚡ "Strive for progress, not perfection!" 🚀
 
