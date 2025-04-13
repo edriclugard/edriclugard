@@ -2,9 +2,9 @@
 
 I'm an aspiring technical content writer specializing in AI/ML.
 
-Currently building foundational skills in AI/ML and technical writing.
+Currently building skills in AI/ML and technical writing.
 
-I believe in learning by doing—and sharing that journey.
+I believe in learning by doing and sharing the journey.
 
 If you're into writing, technical communication, or AI/ML, let’s connect and grow together.
 
