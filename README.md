@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Edric Lugard!
 
 ## 🚀 About Me
-I'm an Data Scientist, AI/ML enthusiast, and Technical Writer passionate about simplifying complex concepts 
+I’m an aspiring technical content writer focused on the AI/ML space.
 
----
+I'm currently building foundational skills in data science and technical writing, with the goal of simplifying complex ideas into clear, useful content.
 
-## 🎯 What I’m Working On
-- 🚀 Advancing my **Python, Data Science, and ML** skills.
-- ✍️ Writing engaging **AI/ML technical content**.
-- 🌍 Learning **German** while exploring AI.
+I believe in learning by doing and sharing that journey publicly.
 
+If you're passionate about Writing, technical communication or AI/ML — Let's connect and learn together.
 ---
 
 ## 📫 Connect with Me
