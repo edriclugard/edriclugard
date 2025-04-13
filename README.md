@@ -7,13 +7,17 @@ I'm currently building foundational skills in data science and technical writing
 
 I believe in learning by doing and sharing that journey publicly.
 
-If you're passionate about Writing, technical communication or AI/ML — Let's connect and learn together.
+If you're passionate about Writing,Technical communication or AI/ML — Let's connect and learn together.
+
 ---
 
 ## 📫 Connect with Me
 📧 Email: **[edriclugard@yahoo.co.uk](mailto:edriclugard@yahoo.co.uk)**  
+
 💼 LinkedIn: **[Edric Lugard](https://www.linkedin.com/in/edric-lugard-704557b6/)**  
+
 🐦 Twitter/X: **[@Edriclugard](https://x.com/EdricLugard_)**  
+
 📜 Portfolio: *Coming soon...*
 
 ---
