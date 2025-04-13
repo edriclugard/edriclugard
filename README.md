@@ -6,7 +6,7 @@ Currently building foundational skills in data science and technical writing, wi
 
 I believe in learning by doing and sharing that journey publicly.
 
-If you're into Technical writing,AI/ML — let’s connect!!
+If you're into Technical writing, AI/ML — let’s connect!!
 
 ## 📫 Connect with Me
 
