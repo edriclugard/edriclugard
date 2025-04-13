@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Edric Lugard!
----
+
 ## 🚀 About Me
 I’m an aspiring technical content writer focused on the AI/ML space.
 
