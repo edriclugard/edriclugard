@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Edric Lugard!
 ---
-## 🚀 About Me ##
+## 🚀 About Me
 I’m an aspiring technical content writer focused on the AI/ML space.
----
+
 I'm currently building foundational skills in data science and technical writing, with the goal of simplifying complex ideas into clear, useful content.
 
 I believe in learning by doing and sharing that journey publicly.
