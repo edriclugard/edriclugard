@@ -33,7 +33,7 @@ Technical writing isn’t just about simplifying information — it also involve
 * Recognizing and understanding the needs of the target audience.
     
 
-## Know Your Audience.
+## Know Your Audience
 
 A writer must consider their audience while writing, as what may seem obvious to one person could be entirely unfamiliar to another.
 
@@ -41,7 +41,7 @@ For example, beginners may need technical terms to be defined in simple language
 
 Knowing your audience's background before writing is crucial in deciding the kind of language to use, the method for conveying the information, and the examples to include.
 
-## Plan Before you Write.
+## Plan Before you Write
 
 It is considered poor practice for a writer to create a technical document without a clear plan.
 
@@ -61,7 +61,7 @@ Writers must avoid using too many words in a sentence, as this can cause the rea
 
 Sentences should be direct, short, and well-structured. Each sentence must have a purpose.
 
-## Structure and Formatting are Important.
+## Structure and Formatting are Important
 
 Regardless of how clear and concise a document may be, poor sentence structure will confuse the readers, hence why a writer must present information in a clean and organized manner to make reading easier.
 
@@ -71,7 +71,7 @@ Using tools such as headings and subheadings to organize content, along with bul
 
 This approach not only enhances readability but also engages readers more effectively, turning the writing process into a seamless and enjoyable experience.
 
-## Use Visuals to Support Your Text.
+## Use Visuals to Support Your Text
 
 In technical writing, Visuals are versatile tools that help readers clearly understand complex concepts.
 
@@ -97,4 +97,4 @@ This guide provides valuable tips and techniques for drafting quality technical 
 
 By following these tips, you will improve your writing skills and learn to communicate information clearly and concisely.
 
-👉 Share your thoughts, questions, or writing struggles in the comments — let’s learn and grow together**.**
+👉 Share your thoughts, questions, or writing struggles in the comments — let’s learn and grow together\*\*.\*\*
