@@ -1,10 +1,10 @@
 ## 👋 Hi
 
-I’m an aspiring technical content writer focused on the AI/ML space.
+I am an aspiring AI/ML engineer focused on developing my data science and machine learning skills. 
 
-Currently building foundational skills in data science and technical writing, with the goal of simplifying complex ideas into clear, useful content.
+I am passionate about exploring artificial intelligence and solving real-world problems. 
 
-I believe in learning by doing and sharing that journey publicly.
+As I learn and grow, I share my insights through technical writing to help others in the community.
 
 If you're into Technical writing, AI/ML — let’s connect!!
 
