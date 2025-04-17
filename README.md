@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Edric Lugard!
 
-🎯 **Aspiring AI/ML Technical Content Writer**  
+🎯 **AI/ML Technical Content Writer**  
 💡 Passionate about exploring the world of Artificial Intelligence  
 ✍️ I love breaking down complex AI/ML concepts into easy-to-understand technical content  
 🌱 Currently learning and growing in the field of Data Science, Machine Learning, and AI  
