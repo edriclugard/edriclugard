@@ -1,18 +1,11 @@
-# 👋 Hi there, I'm Edric Lugard!
+# 👋 Hi 
+I’m Edric—a **Data Scientist and Technical Writer** with a passion for making complex AI and machine learning concepts easy to understand and apply.
 
-🎯 **AI/ML Technical Content Writer**  
-💡 Passionate about exploring the world of Artificial Intelligence  
-✍️ I love breaking down complex AI/ML concepts into easy-to-understand technical content  
-🌱 Currently learning and growing in the field of Data Science, Machine Learning, and AI  
-📚 Sharing what I learn through tutorials, articles, and technical documentation to help others in the community  
+I simplify AI/ML through code and writing, making cutting-edge technology accessible to all. When I’m not coding, I’m working on clear, beginner-friendly content.
 
----
+My work sits at the intersection of AI/ML, technical writing, and continuous learning, always striving to make tech more approachable.
 
-### 🚀 What I’m Working On:
-- Building a solid foundation in **Python**, **Data Science**, and **Machine Learning**
-- Writing beginner-friendly content on AI/ML topics
-- Creating technical documentation and learning resources
-- Contributing to open-source AI/ML-related projects (soon!)
+I’m open to collaboration, freelance opportunities, and anything AI/ML-related. If you’re working on exciting AI projects (or hiring for them), let’s connect!
 
 ---
 
