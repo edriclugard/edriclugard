@@ -5,13 +5,10 @@ I simplify AI/ML through code and writing, making cutting-edge technology access
 
 My work sits at the intersection of AI/ML, technical writing, and continuous learning, always striving to make tech more approachable.
 
-I’m open to collaboration, freelance opportunities, and anything AI/ML-related. If you’re working on exciting AI projects (or hiring for them), let’s connect!
-
 ---
 
 ### 💬 Let's Connect!
-I'd love to connect and collaborate if you're into **technical writing**, **AI**, or **machine learning**.  
-Feel free to check out my work, share feedback, or just say hi!
+I’m open to collaboration, freelance opportunities, and anything AI/ML-related. If you’re working on exciting AI projects (or hiring for them), let’s connect!
 
 📧 Email: **[edriclugard@yahoo.co.uk](mailto:edriclugard@yahoo.co.uk)**  
 
